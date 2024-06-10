@@ -22,8 +22,8 @@ export default function PotionDetails() {
   return (
     <View style={styles.container}>
       <Image source={potionImg} style={styles.image} resizeMode="contain" />
-      <Text style={styles.title}>Potion Details</Text>
-      <FlatList
+      <Text style={styles.title}>{potion.name}</Text>
+      <FlatList style={styles.flatlist}
         data={potion}
         renderItem={({ item }) => <Text style={styles.effect}>{item.name}</Text>}
         keyExtractor={(item) => item.id.toString()}
@@ -40,8 +40,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5FCFF',
   },
   image: {
-    width: 200,
-    height: 200,
+    width: '100%',
+    height: 300,
     borderRadius: 10,
     marginBottom: 20,
     marginTop: 20,
@@ -55,5 +55,8 @@ const styles = StyleSheet.create({
   effect: {
     fontSize: 18,
     marginVertical: 5,
+  },
+  flatlist: {
+    marginBottom: 25,
   },
 });

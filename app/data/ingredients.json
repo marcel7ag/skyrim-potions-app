@@ -227,7 +227,8 @@
         "Regenerate Magicka",
         "Fortify Illusion",
         "Restore Magicka"
-      ]
+      ],
+      "image": "Dwarven_oil.webp"
     }, {
       "id": 24,
       "name": "Ectoplasm",
@@ -606,7 +607,8 @@
         "Waterbreathing",
         "Regenerate Health",
         "Fortify Pickpocket"
-      ]
+      ],
+      "image": "Nordic_barnacle.webp"
     }, {
       "id": 62,
       "name": "Orange Dartwing",
@@ -615,7 +617,8 @@
         "Ravage Magicka",
         "Fortify Pickpocket",
         "Lingering Damage Health"
-      ]
+      ],
+      "image": "TESV_Dragonfly_Orange.webp"
     }, {
       "id": 63,
       "name": "Pearl",
@@ -624,7 +627,8 @@
         "Restore Magicka",
         "Fortify Block",
         "Resist Shock"
-      ]
+      ],
+      "image": "Skyrim_Pearl.webp"
     }, {
       "id": 64,
       "name": "Pine Thrush Egg",
@@ -633,7 +637,8 @@
         "Fortify Lockpicking",
         "Weakness to Poison",
         "Resist Shock"
-      ]
+      ],
+      "image": "Pine_thrush_egg.webp"
     }, {
       "id": 65,
       "name": "Powdered Mammoth Tusk",
@@ -642,7 +647,8 @@
         "Weakness to Fire",
         "Fortify Sneak",
         "Fear"
-      ]
+      ],
+      "image": "Powdered_mammoth_tusk.webp"
     }, {
       "id": 66,
       "name": "Purple Mountain Flower",
@@ -651,7 +657,8 @@
         "Fortify Sneak",
         "Lingering Damage Magicka",
         "Resist Frost"
-      ]
+      ],
+      "image": "Purple_mountain_flower.webp"
     }, {
       "id": 67,
       "name": "Red Mountain Flower",
@@ -660,7 +667,8 @@
         "Ravage Magicka",
         "Fortify Magicka",
         "Damage Health"
-      ]
+      ],
+      "image": "Red_mountain_flower.webp"
     }, {
       "id": 68,
       "name": "River Betty",
@@ -669,7 +677,8 @@
         "Fortify Alteration",
         "Slow",
         "Fortify Carry Weight"
-      ]
+      ],
+      "image": "River_betty.webp"
     }, {
       "id": 69,
       "name": "Rock Warbler Egg",
@@ -678,7 +687,8 @@
         "Fortify One-handed",
         "Damage Stamina",
         "Weakness to Magic"
-      ]
+      ],
+      "image": "Rock_warbler_egg.webp"
     }, {
       "id": 70,
       "name": "Sabre Cat Tooth",
@@ -687,7 +697,8 @@
         "Fortify Heavy Armor",
         "Fortify Smithing",
         "Weakness to Poison"
-      ]
+      ],
+      "image": "Sabre_cat_tooth.webp"
     }, {
       "id": 71,
       "name": "Salt Pile",
@@ -696,7 +707,8 @@
         "Fortify Restoration",
         "Slow",
         "Regenerate Magicka"
-      ]
+      ],
+      "image": "Salt_pile.webp"
     }, {
       "id": 72,
       "name": "Scaly Pholiata",
@@ -705,7 +717,8 @@
         "Fortify Illusion",
         "Regenerate Stamina",
         "Fortify Carry Weight"
-      ]
+      ],
+      "image": "Scaly_pholiota.webp"
     }, {
       "id": 73,
       "name": "Silverside Perch",
@@ -714,7 +727,8 @@
         "Damage Stamina Regen",
         "Ravage Health",
         "Resist Frost"
-      ]
+      ],
+      "image": "Silverside_perch.webp"
     }, {
       "id": 74,
       "name": "Skeever Tail",
@@ -723,7 +737,8 @@
         "Ravage Health",
         "Damage Health",
         "Fortify Light Armor"
-      ]
+      ],
+      "image": "Skeever_tail.webp"
     }, {
       "id": 75,
       "name": "Slaughterfish Egg",
@@ -732,7 +747,8 @@
         "Fortify Pickpocket",
         "Lingering Damage Health",
         "Fortify Stamina"
-      ]
+      ],
+      "image": "Slaughterfish_egg.webp"
     }, {
       "id": 76,
       "name": "Slaughterfish Scales",
@@ -741,7 +757,8 @@
         "Lingering Damage Health",
         "Fortify Heavy Armor",
         "Fortify Block"
-      ]
+      ],
+      "image": "Slaughterfish_scales.webp"
     }, {
       "id": 77,
       "name": "Small Antlers",
@@ -750,7 +767,8 @@
         "Fortify Restoration",
         "Lingering Damage Stamina",
         "Damage Health"
-      ]
+      ],
+      "image": "Small_antlers.webp"
     }, {
       "id": 78,
       "name": "Small Pearl",
@@ -759,7 +777,8 @@
         "Fortify One-handed",
         "Fortify Restoration",
         "Resist Frost"
-      ]
+      ],
+      "image": "Small_pearl.webp"
     }, {
       "id": 79,
       "name": "Snowberries",
@@ -768,7 +787,8 @@
         "Fortify Enchanting",
         "Resist Frost",
         "Resist Shock"
-      ]
+      ],
+      "image": "Snowberries.webp"
     }, {
       "id": 80,
       "name": "Spider Egg",
@@ -777,7 +797,8 @@
         "Damage Magicka Regen",
         "Fortify Lockpicking",
         "Fortify Marksman"
-      ]
+      ],
+      "image": "Spider_egg.webp"
     }, {
       "id": 81,
       "name": "Spriggan Sap",
@@ -786,7 +807,8 @@
         "Fortify Enchanting",
         "Fortify Smithing",
         "Fortify Alteration"
-      ]
+      ],
+      "image": "Skyrim_spriggan_sap.webp"
     }, {
       "id": 82,
       "name": "Swamp Fungal Pod",
@@ -795,7 +817,8 @@
         "Lingering Damage Magicka",
         "Paralysis",
         "Restore Health"
-      ]
+      ],
+      "image": "Swamp_fungal_pod.webp"
     }, {
       "id": 83,
       "name": "Taproot",
@@ -804,7 +827,8 @@
         "Fortify Illusion",
         "Regenerate Magicka",
         "Restore Magicka"
-      ]
+      ],
+      "image": "Skyrim_Taproot.webp"
     }, {
       "id": 84,
       "name": "Thistle Branch",
@@ -813,7 +837,8 @@
         "Ravage Stamina",
         "Resist Poison",
         "Fortify Heavy Armor"
-      ]
+      ],
+      "image": "Thistle_branch.webp"
     }, {
       "id": 85,
       "name": "Torchbug Thorax",
@@ -822,7 +847,8 @@
         "Lingering Damage Magicka",
         "Weakness to Magic",
         "Fortify Stamina"
-      ]
+      ],
+      "image": "Torchbug_thorax.webp"
     }, {
       "id": 86,
       "name": "Troll Fat",
@@ -831,7 +857,8 @@
         "Fortify Two-handed",
         "Frenzy",
         "Damage Health"
-      ]
+      ],
+      "image": "Troll_fat.webp"
     }, {
       "id": 87,
       "name": "Tundra Cotton",
@@ -840,7 +867,8 @@
         "Fortify Magicka",
         "Fortify Block",
         "Fortify Barter"
-      ]
+      ],
+      "image": "Tundra_cotton.webp"
     }, {
       "id": 88,
       "name": "Vampire Dust",
@@ -849,7 +877,8 @@
         "Regenerate Health",
         "Restore Magicka",
         "Cure Disease"
-      ]
+      ],
+      "image": "Skyrim_vampire_dust.webp"
     }, {
       "id": 89,
       "name": "Void Salts",
@@ -858,7 +887,8 @@
         "Resist Magic",
         "Damage Health",
         "Fortify Magicka"
-      ]
+      ],
+      "image": "Skyrim_void_salts.webp"
     }, {
       "id": 90,
       "name": "Wheat",
@@ -867,7 +897,8 @@
         "Fortify Health",
         "Damage Stamina Regen",
         "Lingering Damage Magicka"
-      ]
+      ],
+      "image": "Wheat.webp"
     }, {
       "id": 91,
       "name": "White Cap",
@@ -876,7 +907,8 @@
         "Fortify Heavy Armor",
         "Restore Magicka",
         "Ravage Magicka"
-      ]
+      ],
+      "image": "White_cap.webp"
     }, {
       "id": 92,
       "name": "Wisp Wrappings",
@@ -885,7 +917,8 @@
         "Fortify Destruction",
         "Fortify Carry Weight",
         "Resist Magic"
-      ]
+      ],
+      "image": "Wisp_wrappings.webp"
     }, {
       "id": 93,
       "name": "Ancestor Moth Wing",
@@ -894,7 +927,8 @@
         "Fortify Conjuration",
         "Damage Magicka Regen",
         "Fortify Enchanting"
-      ]
+      ],
+      "image": "AncestorMothWing.webp"
     }, {
       "id": 94,
       "name": "Chaurus Hunter Antennae",
@@ -903,7 +937,8 @@
         "Fortify Conjuration",
         "Damage Magicka Regen",
         "Fortify Enchanting"
-      ]
+      ],
+      "image": "Chaurus_hunter_antennae.webp"
     }, {
       "id": 95,
       "name": "Gleamblossom",
@@ -912,7 +947,8 @@
         "Fear",
         "Regenerate Health",
         "Paralysis"
-      ]
+      ],
+      "image": "Gleamblossom.webp"
     }, {
       "id": 96,
       "name": "Poison Bloom",
@@ -921,7 +957,8 @@
         "Slow",
         "Fortify Carry Weight",
         "Fear"
-      ]
+      ],
+      "image": "Poison_bloom.webp"
     }, {
       "id": 97,
       "name": "Yellow Mountain Flower",
@@ -930,7 +967,8 @@
         "Fortify Restoration",
         "Fortify Health",
         "Damage Stamina Regen"
-      ]
+      ],
+      "image": "Yellow_mountain_flower.webp"
     }, {
       "id": 98,
       "name": "Ash Creep Cluster",
@@ -939,7 +977,8 @@
         "Invisibility",
         "Resist Fire",
         "Fortify Destruction"
-      ]
+      ],
+      "image": "AshCreepCluster.webp"
     }, {
       "id": 99,
       "name": "Ash Hopper Jelly",
@@ -948,7 +987,8 @@
         "Fortify Light Armor",
         "Resist Shock",
         "Weakness to Frost"
-      ]
+      ],
+      "image": "Ash_hopper_jelly.webp"
     }, {
       "id": 100,
       "name": "Ashen Grass Pod",
@@ -957,7 +997,8 @@
         "Weakness to Shock",
         "Fortify Lockpicking",
         "Fortify Sneak"
-      ]
+      ],
+      "image": "Ashen_grass_pod.webp"
     }, {
       "id": 101,
       "name": "Boar Tusk",
@@ -966,7 +1007,8 @@
         "Fortify Health",
         "Fortify Block",
         "Frenzy"
-      ]
+      ],
+      "image": "BoarTusk.webp"
     }, {
       "id": 102,
       "name": "Burnt Spriggan Wood",
@@ -975,7 +1017,8 @@
         "Fortify Alteration",
         "Damage Magicka Regen",
         "Slow"
-      ]
+      ],
+      "image": "BurntSprigganWood.webp"
     }, {
       "id": 103,
       "name": "Emperor Parasol Moss",
@@ -984,7 +1027,8 @@
         "Fortify Magicka",
         "Regenerate Health",
         "Fortify Two-Handed"
-      ]
+      ],
+      "image": "Emperor_parasol_moss.webp"
     }, {
       "id": 104,
       "name": "Felsaad Tern Feathers",
@@ -993,7 +1037,8 @@
         "Fortify Light Armor",
         "Cure Disease",
         "Resist Magic"
-      ]
+      ],
+      "image": "Felsaad_tern_feathers.webp"
     }, {
       "id": 105,
       "name": "Netch Jelly",
@@ -1002,7 +1047,8 @@
         "Fortify Carry Weight",
         "Restore Stamina",
         "Fear"
-      ]
+      ],
+      "image": "Netch_jelly.webp"
     }, {
       "id": 106,
       "name": "Scathecraw",
@@ -1011,7 +1057,8 @@
         "Ravage Stamina",
         "Ravage Magicka",
         "Lingering Damage Health"
-      ]
+      ],
+      "image": "Scrathecraw.webp"
     }, {
       "id": 107,
       "name": "Trama Root",
@@ -1020,7 +1067,8 @@
         "Fortify Carry Weight",
         "Damage Magicka",
         "Slow"
-      ]
+      ],
+      "image": "Trama_root.webp"
     }, {
       "id": 108,
       "name": "Spawn Ash",
@@ -1029,6 +1077,7 @@
         "Resist Fire",
         "Fortify Enchanting",
         "Ravage Magicka"
-      ]
+      ],
+      "image": "Spawn_ash.webp"
     }
 ]

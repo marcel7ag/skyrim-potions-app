@@ -15,7 +15,7 @@ export default function Tab() {
         />
         <Text style={styles.label}>checkbox 1</Text>
       </View>
-      <Text>Is CheckBox selected: {isSelected ? 'yes' : 'no'}</Text>
+      <Text>Enable shake to toggle dark mode?: {isSelected ? 'yes' : 'no'}</Text>
     </View>
   );
 }

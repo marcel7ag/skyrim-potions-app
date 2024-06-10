@@ -14,7 +14,7 @@ export default function Tab() {
             style={styles.itemContainer}
             onPress={() => router.push(`/ingredientDetails?itemId=${item.id}`)}
           >
-            <Image source={{ uri: "http://10.0.2.2:8000/ingredients/"+item.image }} style={styles.image} />
+            <Image source={{ uri: "http://10.0.2.2:8000/low/"+item.image }} style={styles.image} />
             <Text style={styles.title}>{item.name}</Text>
           </Pressable>
         )}
@@ -38,8 +38,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   image: {
-    width: '60',
-    height: 30,
+    width: '100%',
+    height: 100,
     borderRadius: 5,
   },
   title: {
