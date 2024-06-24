@@ -504,7 +504,7 @@
       "name": "Juniper Berries",
       "effects": [
         "Weakness to Fire",
-        "Rengerate Health",
+        "Regenerate Health",
         "Fortify Marksman",
         "Damage Stamina Regen"
       ],
@@ -535,7 +535,7 @@
       "effects": [
         "Damage Magicka",
         "Fortify Light Armor",
-        "Rengenerate Health",
+        "Regenerate Health",
         "Invisibility"
       ],
       "image": "Luna_Moth_wing.webp"
@@ -576,7 +576,7 @@
         "Damage Magicka",
         "Fear",
         "Fortify Lockpicking",
-        "Rengenerate Health"
+        "Regenerate Health"
       ],
       "image": "Namiras_rot.webp"
     }, {
