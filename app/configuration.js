@@ -19,11 +19,9 @@ export default function Tab() {
   useEffect(() => {
     let accelerometerSubscription;
 
-    if (AMisSelected) {
       accelerometerSubscription = Accelerometer.addListener(accelerometerData => {
         setAccelerometerData(accelerometerData);
       });
-    }
 
     return () => {
       if (accelerometerSubscription) {
@@ -105,9 +103,9 @@ export default function Tab() {
         <Text style={styles.label}>
           Illuminance: {Platform.OS === 'android' ? `${ambientLightData.illuminance} lx` : `Only available on Android`}
         </Text>
-        <Text style={styles.label}>x: {x.toFixed(2)}</Text>
-        <Text style={styles.label}>y: {y.toFixed(2)}</Text>
-        <Text style={styles.label}>z: {z.toFixed(2)}</Text>
+        <Text style={styles.label}>x: {x}</Text>
+        <Text style={styles.label}>y: {y}</Text>
+        <Text style={styles.label}>z: {z}</Text>
       </View>
   );
 }
