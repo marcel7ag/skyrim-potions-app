@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
     padding: 10,
     flexDirection: 'column',
     alignItems: 'flex-start',
-    justifyContent: 'center',
+    justifyContent: 'flex-start',
   },
   image: {
     width: '100%',
@@ -102,7 +102,7 @@ const styles = StyleSheet.create({
     color: 'white',
   },
   columnWrapper: {
-    justifyContent: 'space-between',
+    justifyContent: 'flex-start',
     backgroundColor: '#06233d',
   },
 });
